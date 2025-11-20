@@ -66,7 +66,7 @@
 
 ### 🏆 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Abhilashaaaaaa13&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api/username=Abhilashaaaaaa13&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
