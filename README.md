@@ -1,5 +1,5 @@
 ## Hi there 👋,
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaaa13&theme=neon-dark" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=neon-dark" width="100%" />
 
 <h1 align="center"> I'm Abhilasha </h1>
 <h3 align="center">Machine Learning • Deep Learning • NLP • Generative AI • DSA</h3>
