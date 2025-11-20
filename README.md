@@ -42,18 +42,31 @@
 </p>
 
 
-## 🚀 **My GitHub Stats (AI Theme)**
+## 🚀 **My GitHub Stats **
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaa13&layout=compact&theme=tokyonight" height="160"/>
-  
-</p>
+<div align="center">
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=neon-dark" width="100%" />
-  
-</p>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+
+  <br /><br />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaa13&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+
+  <br /><br />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+
+
+
+### 🏆 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Abhilashaaaaaa13&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
