@@ -1,4 +1,58 @@
-## Hi there 👋
+## Hi there 👋,
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaaa13&theme=neon-dark" width="100%" />
+
+<h1 align="center"> I'm Abhilasha </h1>
+<h3 align="center">Machine Learning • Deep Learning • NLP • Generative AI • DSA</h3>
+
+---
+
+### 🧬 **About Me**
+🔥 Passionate about building intelligent, real-world AI systems  
+🧠 Strong foundation in **C++ + DSA**  
+🤖 Experienced in **Deep Learning, NLP, RAG systems, TensorFlow models & GenAI apps**  
+⚡ Skilled in **LangChain, LangGraph & LangSmith** for agentic workflows  
+
+---
+
+## 🛠️ **Tech Stackd**
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-0A0F0D?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=chaine&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0A0F0D?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+</p>
+
+
+## 🚀 **My GitHub Stats (AI Theme)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaaa13&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaaa13&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaaa13&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 **Connect With Me**
+📧 abhilasha1333@gmail.com  
+🔗 www.linkedin.com/in/abhilasha-653b33277 
+
+---
+
+## ⚡ **Fun Fact**
+AI won’t replace you — **but someone using AI will.**
+
 
 <!--
 **Abhilashaaaaaa13/Abhilashaaaaaa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
