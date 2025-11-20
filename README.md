@@ -1,5 +1,5 @@
 ## Hi there 👋,
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=neon-dark" width="100%" />
+
 
 <h1 align="center"> I'm Abhilasha </h1>
 <h3 align="center">Machine Learning • Deep Learning • NLP • Generative AI • DSA</h3>
@@ -47,10 +47,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaa13&layout=compact&theme=tokyonight" height="160"/>
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=neon-dark" width="100%" />
+  
 </p>
 
 ---
