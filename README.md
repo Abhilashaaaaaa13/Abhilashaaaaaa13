@@ -63,13 +63,6 @@
 
 
 
-
-## 🏆 Top Contributed Repo
-
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Abhilashaaaaaa13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/Abhilashaaaaaa13)
-
-
-
 ## 🤝 **Connect With Me**
 📧 abhilasha1333@gmail.com  
 🔗 www.linkedin.com/in/abhilasha-653b33277 
