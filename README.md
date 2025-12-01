@@ -49,25 +49,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=radical&count_private=true" alt="Abhilasha's Github Stats" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaa13&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
 
 </div>
 
 
-div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abhilashaaaaaa13&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-
-</div>
 
 
 ## 🤝 **Connect With Me**
