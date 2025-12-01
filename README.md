@@ -49,18 +49,12 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=radical&count_private=true" alt="Abhilasha's Github Stats" />
 
-  <br /><br />
+<br/><br/>
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaa13&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-  <br /><br />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaa13&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
 
 </div>
 
