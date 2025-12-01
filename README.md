@@ -43,7 +43,7 @@
 </p>
 
 
-## 🚀 **My GitHub Stats **
+## 🚀 My GitHub Stats
 
 <div align="center">
 
@@ -61,6 +61,7 @@
   <img src="https://streak-stats.demolab.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
+
 
 
 
