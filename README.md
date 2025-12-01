@@ -50,7 +50,7 @@
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhilashaaaaaa13&show_icons=true&theme=radical)
 
   <br /><br />
 
