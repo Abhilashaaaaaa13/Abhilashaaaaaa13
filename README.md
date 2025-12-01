@@ -59,7 +59,15 @@
 </div>
 
 
+div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abhilashaaaaaa13&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+
+</div>
 
 
 ## 🤝 **Connect With Me**
