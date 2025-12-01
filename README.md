@@ -43,7 +43,7 @@
 </p>
 
 
-## 🚀 My GitHub Stats
+
 
 ## 🚀 My GitHub Stats
 
@@ -54,8 +54,13 @@
 
   <br /><br />
 
-  <!-- Most Used Languages Card -->
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaaaaaa13&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+
+  <br /><br />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaaaaaa13&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
